@@ -161,7 +161,7 @@ Reference-style:
 Here's our logo (hover to see the title text):
 
 Inline-style:
-![alt text](https://www.corelogic.com/images/cl_logo_v.svg "Logo Title Text 1")
+![alt text](https://d3uinntk0mqu3p.cloudfront.net/branding/market/d9098879-8e48-437e-b82b-cc2a515677e3.png "Logo Title Text 1")
 
 Reference-style:
 ![alt text][logo]

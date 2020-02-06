@@ -5,4 +5,4 @@
  Pritchard in the Wiki for the Markdown Here Project.
 
  ## Headers
- 'Code'
+ `Code`

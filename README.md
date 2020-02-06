@@ -150,12 +150,12 @@ Some text to show that the reference links can follow later.
 Here's our logo (hover to see the title text):
 
 Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://www.corelogic.com/images/cl_logo_v.svg "Logo Title Text 1")
 
 Reference-style:
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://www.corelogic.com/images/cl_logo_v_1cr_web_min.png "Logo Title Text 2"
 ```
 
 Here's our logo (hover to see the title text):

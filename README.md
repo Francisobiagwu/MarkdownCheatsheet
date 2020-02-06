@@ -155,7 +155,7 @@ Inline-style:
 Reference-style:
 ![alt text][logo]
 
-[logo]: https://www.corelogic.com/images/cl_logo_v_1cr_web_min.png "Logo Title Text 2"
+[logo]: https://www.corelogic.com/images/cl_logo_v.svg "Logo Title Text 2"
 ```
 
 Here's our logo (hover to see the title text):
@@ -166,7 +166,7 @@ Inline-style:
 Reference-style:
 ![alt text][logo]
 
-[logo]: https://www.corelogic.com/images/cl_logo_v_1cr_web_min.png "Logo Title Text 2"
+[logo]: https://www.corelogic.com/images/cl_logo_v.svg "Logo Title Text 2"
 
 ## Code and Syntax Highlighting
 ```
@@ -176,9 +176,10 @@ Inline `code` has `back-ticks around` it.
 Inline `code` has `back-ticks around` it.
 
 Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces. I recommend only using the fenced code blocks -- they're easier and only they support syntax highlighting.
-
-    sdfsdfsdf
-    sdfsdfsdf
+    ```javascript
+    var s = "JavaScript syntax highlighting";
+    alert(s);
+    ```
 
 ```javascript
 var s = "JavaScript syntax highlighting";

@@ -5,7 +5,8 @@
  Pritchard in the Wiki for the Markdown Here Project.
 
  ## Headers
- `# H1
+ ```
+ # H1
  ## H2
  ### H3
  #### H4
@@ -18,7 +19,8 @@
  ======
 
  Alt-H2
- ------`
+ ------
+ ```
 
 # H1
 ## H2

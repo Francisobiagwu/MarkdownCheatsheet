@@ -150,12 +150,12 @@ Some text to show that the reference links can follow later.
 Here's our logo (hover to see the title text):
 
 Inline-style:
-![alt text](https://www.corelogic.com/images/cl_logo_v.svg "Logo Title Text 1")
+![alt text](https://d3uinntk0mqu3p.cloudfront.net/branding/market/d9098879-8e48-437e-b82b-cc2a515677e3.png "Logo Title Text 1")
 
 Reference-style:
 ![alt text][logo]
 
-[logo]: https://www.corelogic.com/images/cl_logo_v.svg "Logo Title Text 2"
+[logo]: https://d3uinntk0mqu3p.cloudfront.net/branding/market/d9098879-8e48-437e-b82b-cc2a515677e3.png "Logo Title Text 2"
 ```
 
 Here's our logo (hover to see the title text):
@@ -166,7 +166,7 @@ Inline-style:
 Reference-style:
 ![alt text][logo]
 
-[logo]: https://www.corelogic.com/images/cl_logo_v.svg "Logo Title Text 2"
+[logo]: https://d3uinntk0mqu3p.cloudfront.net/branding/market/d9098879-8e48-437e-b82b-cc2a515677e3.png "Logo Title Text 2"
 
 ## Code and Syntax Highlighting
 ```
@@ -344,7 +344,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ```
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0b8vTHjsF0Y
 " target="_blank"><img src="http://img.youtube.com/vi/0b8vTHjsF0Y/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Cats freaked out by bananas" width="240" height="180" border="10" /></a>
 
 Or, in pure Markdown, but losing the image sizing and border:
 
@@ -352,4 +352,4 @@ Or, in pure Markdown, but losing the image sizing and border:
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 ```
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/0b8vTHjsF0Y/0.jpg)](http://www.youtube.com/watch?v=0b8vTHjsF0Y)
+[![Cats freaked out by bananas](http://img.youtube.com/vi/0b8vTHjsF0Y/0.jpg)](http://www.youtube.com/watch?v=0b8vTHjsF0Y)

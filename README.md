@@ -1,2 +1,4 @@
 # MarkdownCheatsheet
- A cheatsheet of Markdown code for GitHub ReadMe files
+ A Cheatsheet of Markdown code commands for GitHub ReadMe files.
+
+ 

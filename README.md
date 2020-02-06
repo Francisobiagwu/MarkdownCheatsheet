@@ -166,7 +166,7 @@ Inline-style:
 Reference-style:
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://www.corelogic.com/images/cl_logo_v_1cr_web_min.png "Logo Title Text 2"
 
 ## Code and Syntax Highlighting
 ```
